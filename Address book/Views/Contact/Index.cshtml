@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ContactModel>
+<style>
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        #customers td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        #customers tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #customers tr:hover {
+            background-color: #ddd;
+        }
+
+        #customers th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #04AA6D;
+            color: white;
+        }
+</style>
+<table id="customers">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Country</th>
+            <th>City</th>
+            <th>Street</th>
+            <th>Home number</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tboody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.Name</td>
+                <td>@contact.Email</td>
+                <td>@contact.Phone</td>
+                <td>@contact.Address?.Country</td>
+                <td>@contact.Address?.City</td>
+                <td>@contact.Address?.Street</td>
+                <td>@contact.Address?.HomeNumber</td>
+                <td>
+                    <a asp-action="SingleContact" asp-route-id="@contact.Id">View</a>
+                    <a asp-action="Edit" asp-route-id="@contact.Id">Edit</a>
+                    <form as-action="Delete" method="get">
+                        <a asp-action="Delete" asp-route-id="@contact.Id">Delete</a>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tboody>
+    <a asp-action="Create">Create</a>
+</table>

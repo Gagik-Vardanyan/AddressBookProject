@@ -1,0 +1,75 @@
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\appsettings.json
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.exe
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.deps.json
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.runtimeconfig.json
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.runtimeconfig.dev.json
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\ref\Address book.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.pdb
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.Views.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Address book.Views.pdb
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.csproj.AssemblyReference.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.AssemblyInfoInputs.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.AssemblyInfo.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.csproj.CoreCompileInputs.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.RazorAssemblyInfo.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.RazorAssemblyInfo.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\staticwebassets\Address book.StaticWebAssets.Manifest.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\staticwebassets\Address book.StaticWebAssets.xml
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\scopedcss\bundle\Address book.styles.css
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.TagHelpers.input.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.TagHelpers.output.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.RazorCoreGenerate.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.RazorTargetAssemblyInfo.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.RazorTargetAssemblyInfo.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.Views.pdb
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.csproj.CopyComplete
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.dll
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\ref\Address book.dll
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.pdb
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Address book.genruntimeconfig.cache
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\Contact\Create.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\Contact\Edit.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\obj\Debug\net5.0\Razor\Views\Contact\SingleContact.cshtml.g.cs
+C:\Users\gagik\source\repos\Address book\Address book\bin\Debug\net5.0\AutoMapper.dll
